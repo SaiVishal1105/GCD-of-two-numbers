@@ -1,7 +1,6 @@
 # Find the GCD of two numbers
-NAME: SAI VISHAL D
-REF.NUMBER: 23013576
-
+NAME: SAI VISHAL D<BR>
+REG.NO: 212223230180
 ## AIM:
 To write a program to find the GCD of two numbers using function.
 
